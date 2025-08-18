@@ -26,7 +26,7 @@ A voice-controlled personal assistant that integrates with Google's suite of ser
 - **Smart Event Search**: Find specific events using natural language descriptions
 - **Date Range Queries**: Search events within custom date ranges
 
-#### 📁 Google Drive (`gdrive`)
+#### 📁 Google Drive (`gdrive.py`)
 
 - **File Search**: Find files using natural language descriptions
 - **Date-Based Filtering**: Search files modified within specific date ranges
